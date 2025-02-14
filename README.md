@@ -31,9 +31,10 @@ Mi chiamo FabriSAM e sono uno sviluppatore software con sede a Genova, Italia. S
 - **Linguaggi di programmazione**: C#, C++
 - **Strumenti e tecnologie**: Unity, Unreal Engine, Git
 
+<!--
 ## Contatti
 
 - **Email**: [Inserisci la tua email]
 - **LinkedIn**: [Inserisci il link al tuo profilo LinkedIn]
-
+-->
 Grazie per aver visitato il mio profilo GitHub!
