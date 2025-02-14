@@ -14,3 +14,26 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+# Benvenuto nel profilo di FabriSAM 👋
+
+Mi chiamo FabriSAM e sono uno sviluppatore software con sede a Genova, Italia. Sono appassionato di programmazione e attualmente sto lavorando su diversi progetti interessanti.
+
+## Progetti in evidenza
+
+- **Flesh-Invader**: Un progetto sviluppato in C#. [Repository](https://github.com/FabriSAM/Flesh-Invader)
+
+- **BubbleRush**: Un gioco arcade veloce in cui si scoppia il pluriball il più rapidamente possibile prima che il tempo scada. Sviluppato in collaborazione con [lucacasamentigamedev](https://github.com/lucacasamentigamedev/BubbleRush).
+
+## Competenze
+
+- **Linguaggi di programmazione**: C#, C++
+- **Strumenti e tecnologie**: Unity, Unreal Engine, Git
+
+## Contatti
+
+- **Email**: [Inserisci la tua email]
+- **LinkedIn**: [Inserisci il link al tuo profilo LinkedIn]
+
+Grazie per aver visitato il mio profilo GitHub!
