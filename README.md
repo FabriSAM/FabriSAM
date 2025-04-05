@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 -->
 
 
-# Benvenuto nel profilo di FabriSAM 👋
+# Benvenuto nel profilo di Fabrizio Conni 👋
 
-Mi chiamo FabriSAM e sono uno sviluppatore software con sede a Genova, Italia. Sono appassionato di programmazione e attualmente sto lavorando su diversi progetti interessanti.
+Mi chiamo Fabrizio Conni e sono uno sviluppatore software con sede a Genova, Italia. Sono appassionato di programmazione e attualmente sto lavorando su diversi progetti interessanti.
 
 ## Progetti in evidenza
 
